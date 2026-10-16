@@ -48,6 +48,4 @@ KPI cards (total sales, total sales value, average and highest sale price, highe
 - Many records have blank `TotalValue` or `Acreage`. Ratio and per-acre columns return blank for those rows instead of zero.
 - Land use values were standardised through a mapping table that merges misspelled and duplicate labels (for example, three spellings of vacant residential land).
 
-## Author
 
-[Your name] | [LinkedIn link] | [email]
